@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carterjamesmike
-- 👀 I’m interested in bicycles, D&D, and whatever my 2 year old is currently interested in
+- 👀 I’m interested in bicycles, D&D, and whatever my 3 year old is currently interested in
 - 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me: I'm in the phone booth, it's the one accross the hall
 
